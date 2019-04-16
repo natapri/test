@@ -73,7 +73,7 @@ let appData = {
         }
         appData.income.forEach(function(incomeMass, i) {
             alert("Способы доп. заработка: " + ( i+1 ) + '-' + incomeMass);
-        })
+        });
         
     }
 };
